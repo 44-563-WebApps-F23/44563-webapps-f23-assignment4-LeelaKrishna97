@@ -1,35 +1,25 @@
 .speech{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
     color: black;
     }
-    .direction{
-     font-family: Arial, Helvetica, sans-serif;
+.direction{
+     font-family: "Times New Roman";
      font-size: 15px;
      color: black;
-     background-color: lightpink;
+     background-color: rgb(204, 255, 255);
     }
-    .direction:hover{
-        color: yellow; 
-        background-color: antiquewhite;
+.direction:hover{
+        color: rgb(18, 119, 181); 
+        background-color: rgb(208, 178, 195);
      }
-    .name{
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        color:darkorange;
+.name{
+        font-family: Verdana;
+        color:rgb(226, 48, 48);
     }
-    .KAIA:hover { 
-        text-shadow:5px 5px 5px rgb(232, 162, 112);
-        border:2px solid aqua;
-        cursor:pointer;
+.NORA{
+        color: rgb(162, 68, 162);
     }
-    .SOLNESS:hover {
-        text-shadow:2px 2px 4px darkblue;
-        border:2px solid darkolivegreen;
-        cursor:pointer;
-    }
-    .KAIA{
-        color: fuchsia;
-    }
-    .SOLNESS{
-        color: maroon;
+.HELMAR{
+        color: rgb(122, 4, 4);
     }

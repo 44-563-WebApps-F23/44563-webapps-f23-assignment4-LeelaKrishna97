@@ -44,3 +44,29 @@ th, td {
         border:2px solid rgb(181, 81, 137);
         cursor:pointer;
     }    
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #4a1111;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      border-right: 1px solid #bbd3da;
+    }
+    
+    li a:hover {
+      background-color: #ccba89;
+      color: black;
+    }   

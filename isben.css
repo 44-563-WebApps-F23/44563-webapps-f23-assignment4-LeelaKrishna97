@@ -34,3 +34,13 @@
 th, td {
     background-color: #9fd2b7
     }    
+.NORA:hover { 
+        text-shadow:5px 5px 5px rgb(10, 69, 26);
+        border:2px solid rgb(176, 111, 57);
+        cursor:pointer;
+    }
+.HELMAR:hover {
+        text-shadow:5px 5px 5px rgb(19, 78, 72);
+        border:2px solid rgb(181, 81, 137);
+        cursor:pointer;
+    }    
